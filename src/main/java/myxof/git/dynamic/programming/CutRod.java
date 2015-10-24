@@ -1,6 +1,6 @@
-package sortAlgorithms;
+package myxof.git.dynamic.programming;
 
-public class QuickSort {
+public class CutRod {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
